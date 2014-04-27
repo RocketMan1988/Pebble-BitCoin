@@ -1,6 +1,6 @@
 #include <pebble.h>
 
-#include "entry.h"
+//#include "entry.h"
 
 static Window *window;
 static TextLayer *symbol_layer;
